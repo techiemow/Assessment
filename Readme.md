@@ -7,7 +7,7 @@
 - **Live Demo**: [IMDB Clone Live](https://mmdbclone.netlify.app)
 
 ### Description
-The IMDB Clone is a web application that emulates the functionality of the popular IMDB site. It features basic CRUD operations for managing movies, actors, and producers, along with an intuitive user interface. The application is built using Node.js for the backend and React for the frontend.
+The IMDB Clone is a web application that emulates the functionality of the popular IMDB site. It features basic CRUD operations except delete for managing movies, actors, and producers, along with an intuitive user interface. The application is built using Node.js for the backend and React for the frontend.
 
 ---
 
